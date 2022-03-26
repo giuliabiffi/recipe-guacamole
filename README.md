@@ -1,3 +1,3 @@
 #Guacamole recipe
 
-Used to learn git
+Used to learn Git and software things
